@@ -66,7 +66,7 @@ function generate_html_sitemap() {
 
         // Close the HTML
 	$html .= '</urlset>';
-        // Save the HTML to sitemap.html file
+        // Save the HTML to sitemap.xml file
 	file_put_contents(YOURLS_ABSPATH . '/sitemap.xml', $html);
     } catch (PDOException $e) {
         // Handle PDO exceptions
