@@ -1,4 +1,4 @@
-YOURLS HTML Sitemap Generator
+YOURLS XML Sitemap Generator
 ====================
 
 Plugin for [YOURLS](https://yourls.org) `v1.19.2`. 
