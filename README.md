@@ -17,7 +17,7 @@ Installation
 
 View sitemap
 ------------
-Go to */sitemap.xml (*Eg* 'http://sho.rt/sitemap.xml')
+Go to */sitemap.xml ( *eg* `http://sho.rt/sitemap.xml` )
 
 Thats [SophiaAtkinson](https://github.com/SophiaAtkinson/yourls-html-sitemap) . 
 
