@@ -14,6 +14,9 @@ Installation
 1. In `/user/plugins`, create a new folder named `yourls-xml-sitemap`.
 2. Drop these files in that directory.
 3. Go to the Plugins administration page ( *eg* `http://sho.rt/admin/plugins.php` ) and activate the plugin.
+View sitemap
+------------
+Go to */sitemap.xml (*Eg* 'http://sho.rt/sitemap.xml')
 
 Thats [SophiaAtkinson](https://github.com/SophiaAtkinson/yourls-html-sitemap) . 
 
